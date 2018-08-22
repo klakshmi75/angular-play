@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/lakshmik/work/angular-play/conf/application.conf,/home/lakshmik/work/angular-play/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/lakshmik/work/angular-play/conf/routes,/home/lakshmik/work/angular-play/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/lakshmik/work/angular-play/conf/logback.xml,/home/lakshmik/work/angular-play/target/scala-2.12/classes/logback.xml)[0m
